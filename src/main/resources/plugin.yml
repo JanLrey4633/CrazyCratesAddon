@@ -1,0 +1,8 @@
+name: CrazyCratesDiscord
+version: 1.0.0
+main: de.deluxeclans.crazycratesdiscord.CrazyCratesDiscord
+api-version: '1.21'
+author: SAMU_MRR
+description: CrazyCrates 5.0 Discord webhook prize logger
+softdepend:
+  - CrazyCrates
