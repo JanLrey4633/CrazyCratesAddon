@@ -1,0 +1,16 @@
+webhook:
+  enabled: true
+  url: "PASTE_WEBHOOK_URL_HERE"
+  username: "DELUXECLANS | Kisten"
+  avatar-url: ""
+  message:
+    - "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    - "🎉 **KISTEN-GEWINN**"
+    - ""
+    - "**Spieler:** %player%"
+    - "**Kiste:** %crate%"
+    - "**Gezogen:** %prize%"
+    - "**Uhrzeit:** %time%"
+    - "**Datum:** %date%"
+    - "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    - "DELUXECLANS BY SAMU_MRR"
